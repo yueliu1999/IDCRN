@@ -1,1 +1,1 @@
-# IDCRN
+# Improved Dual Correlation Reduction Network
